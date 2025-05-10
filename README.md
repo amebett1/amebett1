@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amebett1
-- 👀 I’m interested in Rhythm Games and AI
+- 👀 I’m interested in Rhythm Games & stuff like that.
 - 🌱 I’m currently learning AI at VNU-UET
 
 
