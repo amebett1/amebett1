@@ -27,9 +27,9 @@
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=amebetti\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=amebett1\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amebetti\&layout=compact\&theme=tokyonight\&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amebett1\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
