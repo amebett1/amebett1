@@ -5,8 +5,7 @@
 ## About Me
 
 * 🎓 Student of VNU-UET
-* 🌱 Learning: **LLM / Machine Learning / Computer Vision**
-* 🎮 Games In Rotation: FC 26, Wuthering Waves, Arena Of Valor
+* 🌱 Learning: **LLM / Computer Vision**
 * ⚡ Motto: *Code – Sleep – Repeat*
 
 ---
