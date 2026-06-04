@@ -1,41 +1,26 @@
-# Amebetti 👋
-
----
-
-## About Me
-
-* 🎓 Student of VNU-UET
-* 🌱 Learning: **LLM / Computer Vision**
-* ⚡ Motto: *Code – Sleep – Repeat*
-
----
-
-## Tech Stack
-
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F8C8DC?style=for-the-badge\&logo=git\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-FFB6C1?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=amebett1\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amebett1\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## Visitor Counter
-
-![visitors](https://komarev.com/ghpvc/?username=Amebetti\&color=ff69b4\&style=flat-square)
-
----
+Hey Im Amebetti, but most be called Ame for short ^^
 
 
+## Skills
+
+-   Programming languages
+    -   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    -   [Python](https://www.python.org/) (primary)
+-   Frontend Development
+    -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-   Backend Development
+    -   [NGINX](https://www.nginx.com/)
+-   Database
+    -   [MySQL](https://www.mysql.com/)
+    -   [PostgreSQL](https://www.postgresql.org/)
+    -   [SQLite](https://www.sqlite.org/)
+
+
+
+## Connect with me
+
+You can connect with me from the following places:
+
+-   [Facebook](https://www.facebook.com/amebetti/): Đồng Minh Đức
+-   [Discord](https://discord.com): amebettiiiiii
+-   [LinkedIn](https://www.linkedin.com/in/duc-dong-minh-686463369/): Duc Dong Minh
