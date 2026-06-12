@@ -24,3 +24,7 @@ You can connect with me from the following places:
 -   [Facebook](https://www.facebook.com/amebetti/): Đồng Minh Đức
 -   [Discord](https://discord.com): amebettiiiiii
 -   [LinkedIn](https://www.linkedin.com/in/duc-dong-minh-686463369/): Duc Dong Minh
+
+## Stats
+![amebett1's Stats](https://github-readme-stats.vercel.app/api?username=amebett1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![amebett1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amebett1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
